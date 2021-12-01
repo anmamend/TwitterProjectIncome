@@ -1,0 +1,5 @@
+pandas
+numpy
+nltk==3.5
+beautifulsoup4
+html5lib
